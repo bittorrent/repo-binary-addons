@@ -1,1 +1,0 @@
-screensaver.asteroids https://github.com/notspiff/screensaver.asteroids v1.1.2
